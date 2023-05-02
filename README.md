@@ -5,7 +5,7 @@ Get a clear and concise overview of common network protocols with our guide. Lea
 
 Connection, packet. 
 
-### Network Interface.
+### Network Interfaces.
 
 **LAN** – Local Area Network
 
@@ -20,9 +20,9 @@ Protocol – set of rules and standards that define a language that devices can 
 
 **UDP** is a connectionless protocol. **UDP** is usually faster than **TCP** communication. 
 
-**IP** –
+**IP** – unique on each network and they allow machines to address each other across a network The most common implementation today is IPv4 addresses, which follow the pattern "123.123.123.123".
 
-**ICMP** –
+**ICMP** – stands for internet control message protocol. It is used to send messages between devices to indicate their availability or error conditions.
 
 ### Application layer protocols:
 
@@ -39,7 +39,7 @@ Firewall – program that decides whether traffic from a server be allowed.
 
 **VPN** – Virtual Private Network. It means connecting separate **LAN**s, while maintaining privacy.
 
-TCP/IP Model
+**TCP/IP** Model
 Most commonly known as the Internet protocol suite. It defines the four separate layers:
 - Application – create and trasmit user data between applications. Here are peers.
 - Transport – communication between processes.
@@ -55,9 +55,9 @@ Most commonly known as the Internet protocol suite. It defines the four separate
 
 
 
-DNS is basically the phone book of the internet. 
+**DNS** is basically the phone book of the internet. 
 
-TLD – Top Level Domain
-RFIDs (Radio frequency identification) – can be placed in or on objects to track them or monitor sensors for many conditions.
+**TLD** – Top Level Domain
+**RFID**s (Radio frequency identification) – can be placed in or on objects to track them or monitor sensors for many conditions.
 
 
