@@ -1,50 +1,50 @@
-# Computer-Networks-Tutorial-The-Ultimate-Guide
+# Computer Networks Tutorial: The Ultimate Guide
 Get a clear and concise overview of common network protocols with our guide. Learn the purpose, functionality, and security considerations of HTTP, SSH, DNS, and more. Perfect for beginners in cybersecurity.
 
-Glossary
+## Glossary
 
 Connection, packet. 
 
-Network Interface.
+### Network Interface.
 
-LAN – Local Area Network
+**LAN** – Local Area Network
 
-WAN – Wide Area Network
+**WAN** – Wide Area Network
 
 
 Protocol – set of rules and standards that define a language that devices can use to communicate.
 
-Low level protocols: 
+### Low level protocols: 
 
-TCP is connection-orientated protocol. This means TCP will attempt to establish the three-way handshake.
+**TCP** is connection-orientated protocol. This means **TCP** will attempt to establish the three-way handshake.
 
-UDP is a connectionless protocol. UDP is usually faster than TCP communication. 
+**UDP** is a connectionless protocol. **UDP** is usually faster than **TCP** communication. 
 
-IP –
+**IP** –
 
-ICMP –
+**ICMP** –
 
-Application layer protocols:
+### Application layer protocols:
 
-HTTP (HyperText Transfer Protocol) – an application-level protocol for distributed, collaborative, hypermedia information systems.
+**HTTP** (HyperText Transfer Protocol) – an application-level protocol for distributed, collaborative, hypermedia information systems.
 
-SSH –
+**SSH** –
 
-TLS/SSL – 
+**TLS/SSL** – 
 
 Port – address on a single machine that can be tied to a specific piece of software.
 Firewall – program that decides whether traffic from a server be allowed.
 
-NAT – Network Access Translation. It’s a way to repackage and send incoming requests to a routing server to devices or servers on a LAN.
+**NAT** – Network Access Translation. It’s a way to repackage and send incoming requests to a routing server to devices or servers on a **LAN**.
 
-VPN – Virtual Private Network. It means connecting separate LANs, while maintaining privacy.
+**VPN** – Virtual Private Network. It means connecting separate **LAN**s, while maintaining privacy.
 
 TCP/IP Model
 Most commonly known as the Internet protocol suite. It defines the four separate layers:
-Application – create and trasmit user data between applications. Here are peers.
-Transport – communication between processes.
-Internet – transport data from node to node in a network. Here are IP adresses
-Link – connection between neighbouring nodes to send data.
+- Application – create and trasmit user data between applications. Here are peers.
+- Transport – communication between processes.
+- Internet – transport data from node to node in a network. Here are IP adresses
+- Link – connection between neighbouring nodes to send data.
 
 
 
@@ -57,7 +57,7 @@ Link – connection between neighbouring nodes to send data.
 
 DNS is basically the phone book of the internet. 
 
-TLD – Top Level Domain 
-RFIDs (Radio frequency identification) – can be placed in or on objects to track them or monitor sensors for many conditions. 
+TLD – Top Level Domain
+RFIDs (Radio frequency identification) – can be placed in or on objects to track them or monitor sensors for many conditions.
 
 
