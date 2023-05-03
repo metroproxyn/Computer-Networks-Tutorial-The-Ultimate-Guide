@@ -26,7 +26,8 @@ Protocol – set of rules and standards that define a language that devices can 
 
 ### Application layer protocols:
 
-**HTTP** (HyperText Transfer Protocol) – an application-level protocol for distributed, collaborative, hypermedia information systems.
+**HTTP** (HyperText Transfer Protocol) – an application-level protocol for distributed, collaborative, hypermedia information systems. The default port is **TCP** 80, but other ports can be used as well.
+
 
 **DNS** is basically the phone book of the internet. It is an application layer protocol used to provide a human-friendly naming mechanism for internet resources.
 
