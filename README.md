@@ -28,7 +28,10 @@ Protocol – set of rules and standards that define a language that devices can 
 
 **HTTP** (HyperText Transfer Protocol) – an application-level protocol for distributed, collaborative, hypermedia information systems.
 
-**SSH** –
+**DNS** is basically the phone book of the internet. It is an application layer protocol used to provide a human-friendly naming mechanism for internet resources.
+
+
+**SSH** (Secure SHell) – encrypted protocol implemented in the application layer that can be used to communicate with a remote server in a secure way.
 
 **TLS/SSL** – 
 
@@ -49,15 +52,8 @@ Most commonly known as the Internet protocol suite. It defines the four separate
 
 
 
-
-
-
-
-
-
-**DNS** is basically the phone book of the internet. 
-
 **TLD** – Top Level Domain
+
 **RFID**s (Radio frequency identification) – can be placed in or on objects to track them or monitor sensors for many conditions.
 
 
